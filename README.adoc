@@ -13,6 +13,7 @@ The full IRI defining this datatype is:
 
 * `https://w3id.org/dggs/auspixLiteral`
 
+
 == Literal contents format
 
 NOTE: A full description of the structure of content within this literal is not complete, however the following description is correct, even though partial.
@@ -57,7 +58,7 @@ CELLLIST ((
 ```
 
 
-
+== References
 
 [1] Brickley, D. & Guha R.V. (eds) _RDF Schema 1.1_. W3C Recommendation 25 February 2014. https://www.w3.org/TR/rdf-schema/  
 
