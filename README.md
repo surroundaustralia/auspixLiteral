@@ -1,4 +1,4 @@
-= AusPIX Literal
+# AusPIX Literal
 
 This is the human-readable version of the datatype descriptor for `dggs:auspixLiteral`.
 
@@ -14,7 +14,7 @@ The full IRI defining this datatype is:
 * `https://w3id.org/dggs/auspixLiteral`
 
 
-== Literal contents format
+## Literal contents format
 
 NOTE: A full description of the structure of content within this literal is not complete, however the following description is correct, even though partial.
 
@@ -41,7 +41,7 @@ The token `LWSP` is zero or more whitespace characters with newlines permitted.
 The token `LWSP-1` is one or more whitespace characters with newlines permitted.
 
 
-== Examples
+## Examples
 
 ```
 CELL(R23)
@@ -58,7 +58,7 @@ CELLLIST ((
 ```
 
 
-== References
+## References
 
 [1] Brickley, D. & Guha R.V. (eds) _RDF Schema 1.1_. W3C Recommendation 25 February 2014. https://www.w3.org/TR/rdf-schema/  
 
